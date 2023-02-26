@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Miniver';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/miniver/v21/eLGcP-PxIg-5H0vC770.ttf) format('truetype');
+}

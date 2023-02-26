@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Gluten';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/gluten/v9/Hhy_U5gk9fW7OUdVIPh2zD_RSqQJ__A15jgJsn-Bhb_yI8UF7R1L.ttf) format('truetype');
+}

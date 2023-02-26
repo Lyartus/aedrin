@@ -1,0 +1,14 @@
+﻿@font-face {
+  font-family: 'Caveat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/caveat/v17/WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6SII.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Caveat Brush';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/caveatbrush/v11/EYq0maZfwr9S9-ETZc3fKXtMWw.ttf) format('truetype');
+}
